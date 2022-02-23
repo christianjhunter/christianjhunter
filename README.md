@@ -17,11 +17,7 @@ class ChristianHunter extends Human {
       team: 'Amazon Care'
     }); 
   }
-  
-  public getCurrentJob(): Job {
-    return this.currentJob;
-  }
-  
+    
   public getFunFact(): string {
     return 'Fullmetal Alchemist is my favorite anime!'
   }
