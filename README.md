@@ -1,5 +1,7 @@
 # <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Hi, I’m Christian Hunter (@christianjhunter)
 
+<a href="https://www.linkedin.com/in/christianjhunter/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 ```typescript
 class ChristianHunter extends Human {
 
