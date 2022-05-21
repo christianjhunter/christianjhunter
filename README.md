@@ -14,9 +14,9 @@ class ChristianHunter extends Human {
     this.tools = [Node, React, NextJs, Redux, Django, AWS, AWS_CDK, Docker];
     
     this.currentJob = new Job({
-      company: 'Amazon',
+      company: 'Google',
       role: 'Software Engineer',
-      team: 'Amazon Care'
+      team: 'Youtube'
     }); 
   }
     
